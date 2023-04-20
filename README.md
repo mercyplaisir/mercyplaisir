@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Crypto Trading Bot
-- 🌱 I’m currently learning Python and in a last year to obtain a bachelor degree in software enginnering
+- 🔭 I’m currently working on upgrading myself
+- 🌱 I’m currently learning to improve me
 - 👯 I’m looking to collaborate on open source projects 
-- 🤔 I’m looking for help with some money 😄
+- 🤔 I’m looking for a way to success
 
 - 📫 How to reach me: via my email
-- 😄 Pronouns: He
-- ⚡ Fun fact: i just know how to google things 😄
+- 😄 Pronouns: He/hungry
+- ⚡ Fun fact: did you that i know that you know
