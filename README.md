@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on projects with python
 - 🌱 I’m currently learning python,only python
 - 👯 I’m looking to collaborate on open source projects(with python) 
-- 🤔 I’m looking for a way to i dont knooow, python 
+- 🤔 I’m looking for a way to be the best in python 
 
 - 📫 How to reach me: via my email
 - ⚡ Fun fact: did you that i know that we know python is the future
