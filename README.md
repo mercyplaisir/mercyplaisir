@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on projects with python
-- 🌱 I’m currently learning python,only python
-- 👯 I’m looking to collaborate on open source projects(with python) 
-- 🤔 I’m looking for a way to be the best in python 
+- Crypto Enthusiast 
+- Turning my ideas into reality
 
-- 📫 How to reach me: via my email
+- 📫 How to reach me: kirangimercyplaisir@gmail.com
 - ⚡ Fun fact: did you that i know that we know python is the future
+
