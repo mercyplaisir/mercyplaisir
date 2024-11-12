@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📫 How to reach me: kirangimercyplaisir@gmail.com
 -->
-- Crypto Enthusiast 
+- Crypto mf 
 - Turning my ideas into reality
 
-- 📫 How to reach me: kirangimercyplaisir@gmail.com
 - ⚡ Fun fact: did you that i know that we know python is the future
 
